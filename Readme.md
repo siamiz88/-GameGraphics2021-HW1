@@ -18,7 +18,7 @@ Let's develop an android application with OpenGL ES SDK!
 <img src="result.gif" width="175" height="300">
 
 ## Deadline
-* If spring class: 05.04. 23:59
+* If spring class: 05.05. 23:59
 
 ## Q & A
 * teclados078@khu.ac.kr (정승재)
